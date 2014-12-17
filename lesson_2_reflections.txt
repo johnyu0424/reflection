@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It created a new .git directory that keeps track of my version history.
+I needed to do it to initialize a repository.
