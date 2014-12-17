@@ -5,3 +5,6 @@ I needed to do it to initialize a repository.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Working directory is the current working directory that you're modifying. A repository is a place where all the commit and previous verison  are at.
 This allows you to only make modification of the current verison and not messed up old stuff.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can make sure of the staging area by making sure that all the files that I added have the same logical change.
