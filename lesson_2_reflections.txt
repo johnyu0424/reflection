@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 It created a new .git directory that keeps track of my version history.
 I needed to do it to initialize a repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working directory is the current working directory that you're modifying. A repository is a place where all the commit and previous verison  are at.
+This allows you to only make modification of the current verison and not messed up old stuff.
