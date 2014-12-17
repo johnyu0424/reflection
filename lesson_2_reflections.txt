@@ -8,3 +8,6 @@ This allows you to only make modification of the current verison and not messed 
 
 How can you use the staging area to make sure you have one commit per logical change?
 I can make sure of the staging area by making sure that all the files that I added have the same logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I am trying out new things and don't want to mess with the stable version or when I am working with other people that's also working on the same part of the code.
