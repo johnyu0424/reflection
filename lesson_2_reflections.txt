@@ -14,3 +14,6 @@ When I am trying out new things and don't want to mess with the stable version o
 
 How do the diagrams help you visualize the branch structure?
 It help me think about how branches are in the repository and how I can get back to the master if I am ever lost.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is a combine code set of both the coins and master. Because it is easier to view?
