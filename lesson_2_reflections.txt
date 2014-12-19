@@ -17,3 +17,7 @@ It help me think about how branches are in the repository and how I can get back
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of merging two branches is a combine code set of both the coins and master. Because it is easier to view?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of automatic merging is Git takes care of all the stuff, but if two things are basically the same but with different name and have no conflict, Git won't notice.
+One the other hand, doing merging manually is tidious and error prone, however, you can find stuff that Git can't.
