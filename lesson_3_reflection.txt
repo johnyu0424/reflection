@@ -12,4 +12,6 @@ Branches are just new branch of the existing code.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You will not need internet access to obtain the last know state of the remote.
 
-Test
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without Git or GitHub, code will have to be sent as attachment or have to use automatic version control from services like Dropbox or Google Drive.
+Github and Git made it easier for us to collaborate online and offline, but at the same time, it requires all the parties invole to have a good knowledge of Git and GitHub.
