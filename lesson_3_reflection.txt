@@ -15,3 +15,7 @@ You will not need internet access to obtain the last know state of the remote.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git or GitHub, code will have to be sent as attachment or have to use automatic version control from services like Dropbox or Google Drive.
 Github and Git made it easier for us to collaborate online and offline, but at the same time, it requires all the parties invole to have a good knowledge of Git and GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you're testing out new stuff and would like to have people approve it before it goes into the master or when you're working on adding features into an open-source project.
+Making changes directly in the master is easier in the sense that you don't have to do all the merging, pushing, and pulling. However, you run the risk of not having a stable master.
