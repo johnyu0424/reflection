@@ -19,3 +19,4 @@ Github and Git made it easier for us to collaborate online and offline, but at t
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 When you're testing out new stuff and would like to have people approve it before it goes into the master or when you're working on adding features into an open-source project.
 Making changes directly in the master is easier in the sense that you don't have to do all the merging, pushing, and pulling. However, you run the risk of not having a stable master.
+
